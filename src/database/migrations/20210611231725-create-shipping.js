@@ -10,7 +10,7 @@ module.exports = {
       },
       country: {
         type: Sequelize.STRING
-      },
+      }, 
       city: {
         type: Sequelize.STRING
       },

@@ -11,7 +11,7 @@ module.exports = {
       height: {
         type: Sequelize.FLOAT
       },
-      width: {
+      width: { 
         type: Sequelize.FLOAT
       },
       weight: {

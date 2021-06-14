@@ -8,7 +8,7 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER,
       },
-      quantity: {
+      quantity: { 
         type: Sequelize.INTEGER,
       },
       subtotal: {
